@@ -1,3 +1,8 @@
+Contributed 25-09-09 "Remove Unsupported Go Lang & Open Stack E-book and Change Url Path For Scratch Free E-book"
+# https://github.com/EbookFoundation/free-programming-books/commit/249b93b6c45650960d30c48dae484b9745534c65
+
+
+
 # List of Free Learning Resources In Many Languages
 
 <div align="center" markdown="1">
